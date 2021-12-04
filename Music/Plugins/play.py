@@ -166,7 +166,7 @@ async def play(_, message: Message):
                 idxz = (result["id"])
                 videoid = (result["id"])
         except Exception as e:
-            return await mystic.edit_text(f"❌ Soung Not Found.\n**Possible Reason:**{e}")    
+            return await mystic.edit_text(f"❌ Soung Not Found.\n\n**Possible Reason:**{e}")    
         smex = int(time_to_seconds(duration))
         if smex > DURATION_LIMIT:
             return await mystic.edit_text(f"❌ **__Duration Error__**\n\n**Allowed Duration: **90 minute(s)\n**Received Duration:** {duration} minute(s)")
