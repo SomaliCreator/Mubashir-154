@@ -53,7 +53,7 @@ Powered By [Sᴏᴍᴀʟɪ ʙᴏᴛs](t.me/somalibots) ...
                         "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
                     ),
                     InlineKeyboardButton(
-                        "Oᴡɴᴇʀ 🤡", url="https://t.me/Armaanboy"
+                        "Oᴡɴᴇʀ 🤡", url="https://t.me/kevinCade"
                     )
                 ],
                 [
@@ -95,7 +95,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " Oᴡɴᴇʀ 🤡", url=f"https://t.me/Armaanboy")
+                        " Oᴡɴᴇʀ 🤡", url=f"https://t.me/kevinCade")
                 ]
             ]
         ),
