@@ -90,7 +90,7 @@ async def start(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/92688f2c44a35ba673c23.png",
-        caption=f"""Here Is The Source Code Fork And Give Stars ✨""",
+        caption=f"""Here Is The Owner home sit-down/rest  And take some Stars ✨""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
