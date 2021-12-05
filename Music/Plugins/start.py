@@ -53,7 +53,7 @@ Powered By [Sᴏᴍᴀʟɪ ʙᴏᴛs](t.me/somalibots) ...
                         "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/itsunknown-12/Zaid-Vc-Player"
+                        "Oᴡɴᴇʀ 🤡", url="https://t.me/Armaanboy"
                     )
                 ],
                 [
@@ -61,7 +61,7 @@ Powered By [Sᴏᴍᴀʟɪ ʙᴏᴛs](t.me/somalibots) ...
                         "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/{ZAID_SUPPORT}"
+                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇸🇴", url=f"https://t.me/{ZAID_SUPPORT}"
                     )
                 ]
                 
@@ -95,7 +95,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/itsunknown-12/Zaid-Vc-Player")
+                        " Oᴡɴᴇʀ 🤡", url=f"https://t.me/Armaanboy")
                 ]
             ]
         ),
