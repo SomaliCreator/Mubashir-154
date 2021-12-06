@@ -50,7 +50,7 @@ Powered By [Sᴏᴍᴀʟɪ ʙᴏᴛs](t.me/somalibots) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
+                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/Somalibots"
                     ),
                     InlineKeyboardButton(
                         "Oᴡɴᴇʀ 🤡", url="https://t.me/kevinCade"
